@@ -36,7 +36,7 @@ replace_old_files = False
 # signal alignment tolerance
 analysis_name = "all"
 apply_sqrt = False
-n_spectral_pairs = 2000000
+n_spectral_pairs = 10000000
 min_n_signals = 6
 abs_mz_tolerance = 0.02
 
